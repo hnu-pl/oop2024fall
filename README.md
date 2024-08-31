@@ -20,16 +20,12 @@ OOP course @ HNU CE (2024 fall)
 
 ## Installing the programming environment
 기본적으로 Codespace 안에서 설치하는 것을 기준으로 한다.
-다른 리눅스 호환 환경에 코드스페이스와 같은 버전의 python, java, jupyter를 설치한다면 마찬가지 방법으로 프로그래밍 환경을 구성할 수 있다.
+다른 리눅스 호환 환경에 코드스페이스와 대략 비슷한 버전의 python, jupyter를 설치한다면 마찬가지 방법으로 프로그래밍 환경을 구성할 수 있다.
 ### Before installing
-학기 초에 시험해 본 바에 따르면 Codespace에 기본적으로 다음과 같은 버전의 python, java, jupyter가 설치되어 있을 것
+학기 초에 시험해 본 바에 따르면 Codespace에 기본적으로 python, jupyter가 설치되어 있다 것
 ```
 @~ ➜ /workspaces/oop2024fall (main) $ python --version
 Python 3.12.1
-@~ ➜ /workspaces/oop2024fall (main) $ java --version
-openjdk 21.0.4 2024-07-16 LTS
-OpenJDK Runtime Environment Microsoft-9889606 (build 21.0.4+7-LTS)
-OpenJDK 64-Bit Server VM Microsoft-9889606 (build 21.0.4+7-LTS, mixed mode, sharing)
 @~ ➜ /workspaces/oop2024fall (main) $ jupyter --version
 Selected Jupyter core packages...
 IPython          : 8.26.0
