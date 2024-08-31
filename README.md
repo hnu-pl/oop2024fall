@@ -45,7 +45,7 @@ traitlets        : 5.14.3
 
 ### Installation steps
 ```
-sdk install java 22.0.2-tem   # 이 명령은 Codespace에서만 필요
+sdk install java 22.0.2-tem
 ```
 위 명령은 Codespace(또는 sdkman으로 자바 설치를 관리하는 시스템)에서만 필요한데, 설치 중에 뭐라고 물어보면 Y를 입력하면 된다.
 
