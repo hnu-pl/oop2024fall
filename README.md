@@ -55,7 +55,7 @@ curl -Ls https://sh.jbang.dev | bash -s - app setup
 (성공적으로 설치되면 영문으로 새로운 터미널을 열라는 내용이 포함된 메시지가 출력될 것이다.)
 
 ```
-jbang install-kernel@jupyter-java rapaio --enable-preview
+jbang --java 22 io.github.padreati:rapaio-jupyter-kernel:2.1.0 -i -auto
 ```
 실행해서 뭔가 물어보면 1번을 선택하면 된다.
 
