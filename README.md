@@ -10,6 +10,8 @@ OOP course @ HNU CE (2024 fall)
   - https://github.com/jupyter-java 자바 프로그래밍 환경과 관련된 다양한 정보
     - https://www.jbang.dev/ 자바 개발 환경 설치를 간편하게 해주는 관리 도구
     - https://github.com/padreati/rapaio-jupyter-kernel/tree/fd3a64a483b6b731783818395deb677fbfbe208c 수업에서 사용할 버전의 자바 커널
+  - https://blog.jetbrains.com/ko/datalore/
+    - https://blog.jetbrains.com/ko/datalore/2020/11/02/what-is-datalore/ Datalore란 무엇인가요?
 
 프로그래밍 언어 관련
   - https://docs.oracle.com/en/java/javase/21/ JDK 21 문서
