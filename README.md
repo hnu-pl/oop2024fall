@@ -55,8 +55,10 @@ curl -Ls https://sh.jbang.dev | bash -s - app setup
 (성공적으로 설치되면 영문으로 새로운 터미널을 열라는 내용이 포함된 메시지가 출력될 것이다.)
 
 ```
-jbang --java 21 --enable-preview io.github.padreati:rapaio-jupyter-kernel:1.3.0 -i -auto
+jbang install-kernel@jupyter-java rapaio --enable-preview
 ```
+실행해서 뭔가 물어보면 1번을 선택하면 된다.
+
 여기까지 성공적으로 rapaio 자바 커널(런타임)을 설치하면 끝!
 
 ### How to run
