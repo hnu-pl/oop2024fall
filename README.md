@@ -52,7 +52,11 @@ curl -Ls https://sh.jbang.dev | bash -s - app setup
 
 ```
 jbang jdk install 22
+```
+```
 jbang jdk default 22
+```
+```
 jbang io.github.padreati:rapaio-jupyter-kernel:2.1.0 -i -auto
 ```
 
