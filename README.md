@@ -11,7 +11,7 @@ OOP course @ HNU CE (2024 fall)
       - [SDKMAN으로 JAVA 관리하기](https://steady-hello.tistory.com/134)
   - https://github.com/jupyter-java 주피터 환경에서 자바를 사용하기 위한 환경 설정 관련 내용 정리
     - [JBang: 자바 개발 환경 설치를 간편하게 해주는 관리 도구](https://www.jbang.dev/)
-    - [rapaio-jupyter-kernel](https://github.com/padreati/rapaio-jupyter-kernel/) 수업시간에 활용하는 자바 주피터 커널
+    - [rapaio-jupyter-kernel 2.1.0]([https://github.com/padreati/rapaio-jupyter-kernel/](https://github.com/padreati/rapaio-jupyter-kernel/tree/2ce7a0c8dde6f35af2a276f14afff4ff998275f1)) 수업시간에 활용하는 자바 주피터 커널
   - https://blog.jetbrains.com/ko/datalore/ Datalore 관련 JetBrains사의 블로그 글들
     - [Datalore란 무엇인가요?](https://blog.jetbrains.com/ko/datalore/2020/11/02/what-is-datalore/)
 
