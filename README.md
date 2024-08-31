@@ -9,7 +9,7 @@ OOP course @ HNU CE (2024 fall)
   - [GitHub Codespace 문서](https://docs.github.com/ko/codespaces) 깃헙 코드스페이스는 클라우드를 통해 제공되는 개발환경
   - https://github.com/jupyter-java 주피터 환경에서 자바를 사용하기 위한 환경 설정 관련 내용 정리
     - [JBang: 자바 개발 환경 설치를 간편하게 해주는 관리 도구](https://www.jbang.dev/)
-    - [rapaio-jupyter-kernel 1.3.0 깃헙 저장소](https://github.com/padreati/rapaio-jupyter-kernel/tree/fd3a64a483b6b731783818395deb677fbfbe208c)
+    - [rapaio-jupyter-kernel 1.3.0 깃헙 저장소](https://github.com/padreati/rapaio-jupyter-kernel/tree/fd3a64a483b6b731783818395deb677fbfbe208c) 수업시간에 활용하는 자바 커널 버전
   - https://blog.jetbrains.com/ko/datalore/ Datalore 관련 JetBrains사의 블로그 글들
     - [Datalore란 무엇인가요?](https://blog.jetbrains.com/ko/datalore/2020/11/02/what-is-datalore/)
 
