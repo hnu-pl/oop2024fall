@@ -65,6 +65,6 @@ jbang --java 22 io.github.padreati:rapaio-jupyter-kernel:2.1.0 -i -auto
 ```
 jupyter-lab --no-browser --IdentityProvider.token='x'
 ```
-이렇게 실행하여 새로운 웹브라우저 창/탭에서 주피터 환경에 접속
+이렇게 실행하여 새로운 웹브라우저 창/탭에서 토큰으로 설정한 x를 입력하여 주피터 환경에 접속
 
 로컬 환경에 설치한 경우에는 아무런 없이 `jupyter-lab` 으로만 실행해도 됨
