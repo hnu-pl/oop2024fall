@@ -6,12 +6,12 @@ OOP course @ HNU CE (2024 fall)
   - https://github.com/forax/java-guide 이 온라인 강의노트를 참고로 내용 선택 및 더 필요한 내용 추가
 
 프로그래밍 환경 관련
-  - https://docs.github.com/ko/codespaces 온라인으로 제공되는 깃헙 제공 리눅스 개발 환경 Codespace 문서
+  - [GitHub Codespace 문서](https://docs.github.com/ko/codespaces) 깃헙 코드스페이스는 클라우드를 통해 제공되는 개발환경
   - https://github.com/jupyter-java 주피터 환경에서 자바를 사용하기 위한 환경 설정 관련 내용 정리
-    - https://www.jbang.dev/ 자바 개발 환경 설치를 간편하게 해주는 관리 도구
-    - https://github.com/padreati/rapaio-jupyter-kernel/tree/fd3a64a483b6b731783818395deb677fbfbe208c 수업에서 사용할 1.3.0 버전의 rapaio 자바 커널
-  - https://blog.jetbrains.com/ko/datalore/
-    - https://blog.jetbrains.com/ko/datalore/2020/11/02/what-is-datalore/ Datalore란 무엇인가요?
+    - [JBang: 자바 개발 환경 설치를 간편하게 해주는 관리 도구](https://www.jbang.dev/)
+    - [rapaio-jupyter-kernel 1.3.0 깃헙 저장소](https://github.com/padreati/rapaio-jupyter-kernel/tree/fd3a64a483b6b731783818395deb677fbfbe208c)
+  - https://blog.jetbrains.com/ko/datalore/ Datalore 관련 JetBrains사의 블로그 글들
+    - [Datalore란 무엇인가요?](https://blog.jetbrains.com/ko/datalore/2020/11/02/what-is-datalore/)
 
 프로그래밍 언어 관련
   - https://docs.oracle.com/en/java/javase/21/ JDK 21 문서
