@@ -45,6 +45,11 @@ traitlets        : 5.14.3
 
 ### Installation steps
 ```
+sdk install java 22.0.2-tem   # 이 명령은 Codespace에서만 필요
+```
+위 명령은 Codespace(또는 sdkman으로 자바 설치를 관리하는 시스템)에서만 필요한데, 설치 중에 뭐라고 물어보면 Y를 입력하면 된다.
+
+```
 curl -Ls https://sh.jbang.dev | bash -s - app setup
 ```
 위와 같이 실행 후 터미널을 닫고 새로운 터미널 열어서 다음으로 진행한다.
@@ -52,9 +57,6 @@ curl -Ls https://sh.jbang.dev | bash -s - app setup
 
 ```
 jbang --java 22 io.github.padreati:rapaio-jupyter-kernel:2.1.0 -i -auto
-```
-```
-jbang jdk default 22
 ```
 
 여기까지 성공적으로 rapaio 자바 커널(런타임)을 설치하면 끝!
