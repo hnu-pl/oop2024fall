@@ -45,7 +45,12 @@ curl -Ls https://sh.jbang.dev | bash -s - app setup
 ```
 jbang io.github.padreati:rapaio-jupyter-kernel:1.3.0 -i -auto
 ```
-여기까지 성공적으로 rapaio 자바 커널(런타임)을 설치하면 끝
+여기까지 성공적으로 rapaio 자바 커널(런타임)을 설치하면 끝!
+
+만일 자바 버전이 맞지 않는 문제러 설치가 실패한 상황이라면 버전에 맞는 JDK가 설치되도록 다음과 같이 `--java 21` 옵션을 추가하여 rapio 자바 커널 설치를 시도해 보라.
+```
+jbang --java 21 io.github.padreati:rapaio-jupyter-kernel:1.3.0 -i -auto
+```
 
 ### How to run
 ```
