@@ -15,6 +15,7 @@ OOP course @ HNU CE (2024 fall)
 
 프로그래밍 언어 관련
   - https://docs.oracle.com/en/java/javase/21/ JDK 21 문서
+    - [JDK 21이 출시되었다. 최신 문법 보고 가요](https://velog.io/@dongvelop/JDK-21%EC%9D%B4-%EC%B6%9C%EC%8B%9C%EB%90%98%EC%97%88%EB%8B%A4.-%EC%B5%9C%EC%8B%A0-%EB%AC%B8%EB%B2%95%EC%9D%80-%EC%82%B4%ED%8E%B4%EB%B4%90%EC%95%BC%EC%A7%80) 
   - https://kotlinlang.org/docs/ Kotlin 2.0.x 문서
 
 ## Installing the programming environment
