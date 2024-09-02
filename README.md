@@ -20,7 +20,7 @@ OOP course @ HNU CE (2024 fall)
     - [JDK 21이 출시되었다. 최신 문법 보고 가요](https://velog.io/@dongvelop/JDK-21%EC%9D%B4-%EC%B6%9C%EC%8B%9C%EB%90%98%EC%97%88%EB%8B%A4.-%EC%B5%9C%EC%8B%A0-%EB%AC%B8%EB%B2%95%EC%9D%80-%EC%82%B4%ED%8E%B4%EB%B4%90%EC%95%BC%EC%A7%80) 
   - https://kotlinlang.org/docs/ Kotlin 2.0.x 문서
 
-## Installing the programming environment
+## Installing and running the programming environment
 기본적으로 Codespace 안에서 설치하는 것을 기준으로 한다.
 다른 리눅스 호환 환경에 코드스페이스와 대략 비슷한 버전의 python, jupyter를 설치한다면 마찬가지 방법으로 프로그래밍 환경을 구성할 수 있다.
 ### Before installing
@@ -70,3 +70,22 @@ jupyter-lab --no-browser --IdentityProvider.token='x'
 이렇게 실행하여 새로운 웹브라우저 창/탭에서 토큰으로 설정한 x를 입력하여 주피터 환경에 접속
 
 로컬 환경에 설치한 경우에는 아무런 없이 `jupyter-lab` 으로만 실행해도 됨
+
+### Troubleshooting
+커멀이 정상적으로 연결되어 실행중이면 코드를 보고 편집하는 노트북 탭의 우상단에 동그라미가 흰색이라야 함.
+
+그런데 여러 가지 알 수 없는 이유로 코드스페이스에서 커널이 연결되지 않는 경우가 발생할 수 있다.
+
+문제 발생을 피하려면
+- 주피터 노트북 환경에서 한 번에 하나의 노트북 파일만 실행
+  - 파일 목록에서 실행중인 노트북은 왼쪽에 초록색 점이 찍혀 있는 것으로 확인 가능
+  - 실행 중인 노트북을 종료하려면 일단 노트북 탭을 닫고 파일 목록에서 우클릭한 다음 Shutdown
+
+커널이 정상적으로 연결되어 실행되지 않는 문제가 발생한 경우
+1. 일단 주피터 환경 안에서 다음과 같은 순서로 해결 시도
+  1. 노트북 편집 탭 상단 아이콘 중 ⟳버튼으로 커널 재시작해 보고, 그래도 안되면
+  1. 주피터 노트북 환경에서 노트북 편집 탭을 모두 닫고 모든 실행중인 노트북을 Shutdown 한 다음 다시 실행
+2. 코드스페이스에서 주피터 서버 재시작
+  1. jupyter-lab으로 시작하는 명령으로 주피터 서버가 실행중인 터미널에서 Ctrl-C 연타
+  2. jupyter-lab으로 시작하는 명령으로 주피터 서버 재시작
+3. 코드스프이스 재시작 (웬만하면 이것까지 할 일은 없겠지만 ...)
