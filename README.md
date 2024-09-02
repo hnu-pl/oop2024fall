@@ -46,6 +46,7 @@ traitlets        : 5.14.3
 ```
 
 ### Installation steps
+코드스페이스(또는 적절한 리눅스 환경)에서 명령어 3개만 입력하면 된다.
 ```
 sdk install java 22.0.2-tem
 ```
