@@ -1,6 +1,12 @@
 # oop2024fall
 OOP course @ HNU CE (2024 fall)
 
+0. j00-genesis.ipynb
+1. j01-basic_types.ipynb
+1. j02-methods.ipynb
+1. [chapter03-jshell_vs_java.ipynb](https://github.com/forax/java-guide/blob/master/jupyter/chapter03-jshell_vs_java.ipynb)
+1. [chapter04-numbers.ipynb](https://github.com/forax/java-guide/blob/master/jupyter/chapter04-numbers.ipynb)
+
 ## Links
 수업 노트 관련
   - https://github.com/forax/java-guide 이 온라인 강의노트를 참고로 내용 선택 및 더 필요한 내용 추가
