@@ -6,6 +6,7 @@ OOP course @ HNU CE (2024 fall)
 1. j02-methods.ipynb
 1. [chapter03-jshell_vs_java.ipynb](https://github.com/forax/java-guide/blob/master/jupyter/chapter03-jshell_vs_java.ipynb)
 1. [chapter04-numbers.ipynb](https://github.com/forax/java-guide/blob/master/jupyter/chapter04-numbers.ipynb)
+1. j05-control_flow.ipynb
 
 ## Links
 수업 노트 관련
