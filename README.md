@@ -73,6 +73,7 @@ traitlets        : 5.14.3
 sdk install java 22.0.2-tem
 ```
 위 명령은 Codespace(또는 sdkman으로 자바 설치를 관리하는 시스템)에서만 필요한데, 설치 중에 뭐라고 물어보면 Y를 입력하면 된다.
+(이걸 Y가 아니라 n으로 잘못 누르면 환경설정이 꼬여서 설치가 제대로 되지 않는다.)
 
 ```
 curl -Ls https://sh.jbang.dev | bash -s - app setup
