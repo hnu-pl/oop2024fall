@@ -10,7 +10,7 @@ OOP course @ HNU CE (2024 fall)
 1. j06-interfaces.ipynb
 1. [chapter21-wrapper.ipynb](https://github.com/forax/java-guide/blob/master/jupyter/chapter21-wrapper.ipynb)
 1. [chapter08-lambda.ipynb](https://github.com/forax/java-guide/blob/master/jupyter/chapter08-lambda.ipynb)
-1. ...
+1. j09-list_and_map.ipynb
 1. ...
 
 ## Links
