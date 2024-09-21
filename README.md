@@ -9,10 +9,11 @@ OOP course @ HNU CE (2024 fall)
 1. j05-control_flow.ipynb
 1. j06-interfaces.ipynb
 1. [chapter21-wrapper.ipynb](https://github.com/forax/java-guide/blob/master/jupyter/chapter21-wrapper.ipynb)
-1. [chapter08-lambda.ipynb](https://github.com/forax/java-guide/blob/master/jupyter/chapter08-lambda.ipynb)
+1. [chapter08-lambda.ipynb](https://github.com/forax/java-guide/blob/master/jupyter/chapter08-lambda.ipynb) 자율학습 self study
 1. j09-list_and_map.ipynb
 1. [chapter10-string_formatting.ipynb](https://github.com/forax/java-guide/blob/master/jupyter/chapter10-string_formatting.ipynb) 자율학습 self study
 1. j11-class_and_encapsulation.ipynb
+1. j12-equals_hashCode_toString.ipynb
 1. ...
 
 ## Links
