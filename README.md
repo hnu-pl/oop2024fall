@@ -15,6 +15,7 @@ OOP course @ HNU CE (2024 fall)
 1. j11-class_and_encapsulation.ipynb
 1. j12-equals_hashCode_toString.ipynb
 1. j14-null_and_optional.ipynb
+1. j15-inheritance.ipynb
 1. ...
 
 ## Links
