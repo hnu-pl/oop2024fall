@@ -16,7 +16,11 @@ OOP course @ HNU CE (2024 fall)
 1. j12-equals_hashCode_toString.ipynb
 1. j14-null_and_optional.ipynb
 1. j15-inheritance.ipynb
+1. [chapter16-exception.ipynb](https://github.com/forax/java-guide/blob/master/jupyter/chapter16-exception.ipynb) 자율학습 self study
+1. [chapter17-enum.ipynb](https://github.com/forax/java-guide/blob/master/jupyter/chapter17-enum.ipynb) 자율학습 self study
 1. ...
+1. ...
+
 
 ## Links
 수업 노트 관련
